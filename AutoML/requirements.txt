@@ -1,0 +1,8 @@
+streamlit
+plotly
+pycaret
+ydata-profiling
+pandas
+streamlit-pandas-profiling
+numpy>=1.21,<2.0
+
